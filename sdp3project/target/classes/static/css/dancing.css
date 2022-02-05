@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	background: url("dance.jpg");
+	margin: 10px;
+}
+embed
+{
+	margin: 10px;
+	width:400px;
+	height: 10px;
+}

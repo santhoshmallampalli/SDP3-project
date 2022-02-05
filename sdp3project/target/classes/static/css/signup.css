@@ -1,0 +1,23 @@
+body{
+	
+	background-size: 280%;
+	background-position: -400px 0px;
+	color:yellow;
+	font-size:22px;
+	button-color:red;
+	
+}
+
+.container{
+	background: url("../images/login.jpg");
+	padding: 120px ;
+	width: 230vw;
+	height: 100vh;
+	font-family: 'Roboto';
+	}
+
+.image {
+	object-fit: cover;
+	width: auto;
+	height: auto;
+}

@@ -1,0 +1,21 @@
+body{
+	background:#e2e2e2;
+	background: url("hello.jpg");
+	background-size: 280%;
+	background-position: -400px 0px;
+	
+}
+
+.container{
+	background: url("../images/p1.jpg");
+	padding: 100px;
+	width: 230vw;
+	height: 100vh;
+	font-family: 'Roboto';
+}
+
+.image {
+	object-fit: cover;
+	width: auto;
+	height: auto;
+}

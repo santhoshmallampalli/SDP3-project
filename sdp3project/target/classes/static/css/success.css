@@ -1,0 +1,22 @@
+body{
+	background-size: 280%;
+	background-position: -400px 0px;
+	color:yellow;
+	font-size:22px;
+	button-color:violet;
+	
+}
+
+.container{
+	background: url("../images/suc.jpg");
+	padding: 100px;
+	width: 230vw;
+	height: 100vh;
+	font-family: 'Roboto';
+}
+
+.image {
+	object-fit: cover;
+	width: auto;
+	height: auto;
+}
